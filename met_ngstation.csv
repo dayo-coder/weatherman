@@ -1,0 +1,59 @@
+STATIONS,LONG,LAT,STATE
+Abeokuta,3.33,7.2,Ogun
+Ado-Ekiti,5.2,7.6,Ekiti
+Abuja,7.2,9,FCT
+Akure,5.3,7.2,Ondo
+Asaba,6.23,6.82,Delta
+Awka,7.07,6.2,Anambra
+Bauchi,9.82,10.28,Bauchi
+Benin,5.6,6.33,Edo
+Bida,6,9.8,Niger
+Calabar,8.35,4.97,C/River
+Eket,7.97,4.52,Akwa Ibom
+Enugu,7,6.5,Enugu
+Gombe,11.17,10.27,Gombe
+Gusau,6.77,12.17,Zamfara
+Ibadan,3.9,7.43,Oyo
+Ibi,9.75,8.18,Taraba
+I/ode,3.93,6.83,Ogun
+Ikeja,3.33,6.58,Lagos
+Ikom,8.72,5.97,Akwa Ibom
+Ilorin,4.58,8.48,Kwara
+Iseyin,3.6,7.97,Oyo
+Jos,8.9,9.87,Plateau
+Kaduna,7.45,10.6,Kaduna
+Kano,8.52,12.05,Kano
+Katsina,7.68,13.02,Katsina
+Lafia,8.47,8.5,Nassarawa
+Lagos Roof,3.06,6.58,Lagos
+Lokoja,6.73,7.8,Kogi
+Maiduguri,13.08,11.85,Borno
+Makurdi,8.5,7.7,Benue
+Minna,6.54,9.54,Niger
+Nguru,10.47,12.88,Yobe
+Ogoja,8.8,6.7,C/River
+Ondo,4.83,7.1,Ondo
+Osogbo,4.5,7.82,Osun
+Owerri,7.03,5.48,Imo
+P/Harcourt,7.12,4.85,River
+Potiskum,11.03,11.7,Yobe
+Shaki,3.47,8.35,Oyo
+Sokoto,5.2,12.92,Sokoto
+Uyo,7.92,5.05,Akwa Ibom
+Warri,5.73,5.52,Delta
+Yelwa,4.5,11,Kebbi
+Yola,12.47,9.23,Adamawa
+Zaria,7.75,11.07,Kaduna
+Onitsha,6.78,6.15,Anambra
+Oshodi,3.38,6.5,Lagos
+LagosMari,3.42,6.43,Lagos
+Yenagoa,6.25,4.29,Bayelsa
+Abakaliki,8.08,6.33,Ebonyi
+Bonny,7.15,4.42,Rivers
+Damaturu,11.96,11.74,Yobe
+Ndjamena,15.03,12.13,Chad
+Maradi,7.08,13.47,Niger
+Zinder,8.98,13.78,Niger
+Magaria,8.93,12.98,Niger
+Garoa,13.38,9.33,Cameroon
+Mambilla Plateau,11.72,7.33,Cameroon
